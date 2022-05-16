@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f2fb4ab.css",
+    "main.js": "/static/js/main.6bdf46d0.js",
+    "static/media/bootstrap-grid.min.css.map": "/static/media/bootstrap-grid.min.css.943484fdaae11faeafca.map",
+    "index.html": "/index.html",
+    "main.4f2fb4ab.css.map": "/static/css/main.4f2fb4ab.css.map",
+    "main.6bdf46d0.js.map": "/static/js/main.6bdf46d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f2fb4ab.css",
+    "static/js/main.6bdf46d0.js"
+  ]
+}
